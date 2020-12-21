@@ -1,5 +1,6 @@
 # Tinder-for-Cats
-It is a web project which is fully responsive .
+It is a web project developed using CSS, HTML, Bootstrap 4.5.
+Also it is fully reponsive.
 
 ## Theme of the project 
 It is a website which is tinder for cats.
